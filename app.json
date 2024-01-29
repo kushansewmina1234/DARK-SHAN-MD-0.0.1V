@@ -2,7 +2,7 @@
   "name": "DARK SHAN MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/8ec95da555e8347af71bd.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "macbot", "mac","MACMD","theme bot","multi device","baileys","mac"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "darkshanmd", "kushan","darkshan","theme bot","multi device","baileys","darkshan"],
   "success_url": "/",
   "stack": "container",
 "env": {
